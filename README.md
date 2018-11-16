@@ -16,3 +16,8 @@
 - [alt-coin generator](https://github.com/tiagosh/AltcoinGenerator)
 - [vps-install](https://github.com/jamiec79/vps_install/blob/master/install.sh)
 - [telegram-bot by vekexasia](https://github.com/vekexasia/dpos-telegram-bot)
+
+
+
+## Credits
+Thanks @jamiec79  @seatrips  @geops
