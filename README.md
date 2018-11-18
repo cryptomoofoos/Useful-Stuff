@@ -17,7 +17,7 @@
 - [vps-install](https://github.com/jamiec79/vps_install/blob/master/install.sh)
 - [telegram-bot by vekexasia](https://github.com/vekexasia/dpos-telegram-bot)
 - [ssl install](https://github.com/seatrips/easy-ssl)
-- [ssl-apache2]([https://github.com/seatrips/easy-apache2-site)
+- [ssl-apache2](https://github.com/seatrips/easy-apache2-site)
 - [ssl-nginx](https://github.com/seatrips/easy-nginx)
 - [paper-wallet](https://github.com/seatrips/shift-paperwallet)
 
