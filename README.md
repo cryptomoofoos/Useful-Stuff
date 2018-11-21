@@ -24,6 +24,7 @@
 - [deadpool-payout-tracker](https://github.com/DEADP0OL/DPOS-Payout-Tracker)
 - [deadpool-discord-bot](https://github.com/DEADP0OL/LWF-DiscordBot)
 - [deadpool-dpos-signpy](https://github.com/DEADP0OL/DPoS_SignPy)
+- [Tg-discord-bridge](https://github.com/TediCross/TediCross)
 
 
 ## Credits
