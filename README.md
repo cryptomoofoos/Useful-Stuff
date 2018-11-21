@@ -21,6 +21,9 @@
 - [ssl-nginx](https://github.com/seatrips/easy-nginx)
 - [paper-wallet](https://github.com/seatrips/shift-paperwallet)
 - [lisk-auto-vote](https://github.com/simonmorgenthaler/Lisk-autoVote)
+- [deadpool-payout-tracker](https://github.com/DEADP0OL/DPOS-Payout-Tracker)
+- [deadpool-discord-bot](https://github.com/DEADP0OL/LWF-DiscordBot)
+- [dpos-signpy](https://github.com/DEADP0OL/DPoS_SignPy)
 
 
 ## Credits
