@@ -16,7 +16,14 @@
 - [alt-coin generator](https://github.com/tiagosh/AltcoinGenerator)
 - [vps-install](https://github.com/jamiec79/vps_install/blob/master/install.sh)
 - [telegram-bot by vekexasia](https://github.com/vekexasia/dpos-telegram-bot)
-
+- [ssl install](https://github.com/seatrips/easy-ssl)
+- [ssl-apache2](https://github.com/seatrips/easy-apache2-site)
+- [ssl-nginx](https://github.com/seatrips/easy-nginx)
+- [paper-wallet](https://github.com/seatrips/shift-paperwallet)
+- [lisk-auto-vote](https://github.com/simonmorgenthaler/Lisk-autoVote)
+- [deadpool-payout-tracker](https://github.com/DEADP0OL/DPOS-Payout-Tracker)
+- [deadpool-discord-bot](https://github.com/DEADP0OL/LWF-DiscordBot)
+- [deadpool-dpos-signpy](https://github.com/DEADP0OL/DPoS_SignPy)
 
 
 ## Credits
