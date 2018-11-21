@@ -20,6 +20,7 @@
 - [ssl-apache2](https://github.com/seatrips/easy-apache2-site)
 - [ssl-nginx](https://github.com/seatrips/easy-nginx)
 - [paper-wallet](https://github.com/seatrips/shift-paperwallet)
+- [lisk-auto-vote](https://github.com/simonmorgenthaler/Lisk-autoVote)
 
 
 ## Credits
