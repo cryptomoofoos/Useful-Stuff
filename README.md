@@ -26,6 +26,7 @@
 - [deadpool-dpos-signpy](https://github.com/DEADP0OL/DPoS_SignPy)
 - [Tg-discord-bridge](https://github.com/TediCross/TediCross)
 - [Hazel](https://github.com/hazelgrove/hazel)
+- [True-Block-Weight](https://github.com/geopsllc/tbw)
 
 ### Useful Links:
 - [fastly-labs](https://www.fastlylabs.com/)
