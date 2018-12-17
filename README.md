@@ -24,6 +24,14 @@
 - [deadpool-payout-tracker](https://github.com/DEADP0OL/DPOS-Payout-Tracker)
 - [deadpool-discord-bot](https://github.com/DEADP0OL/LWF-DiscordBot)
 - [deadpool-dpos-signpy](https://github.com/DEADP0OL/DPoS_SignPy)
+- [Tg-discord-bridge](https://github.com/TediCross/TediCross)
+- [Hazel](https://github.com/hazelgrove/hazel)
+- [True-Block-Weight-galperins4](https://github.com/galperins4/tbw)
+- [True-Block-Weight-GEOPS](https://github.com/geopsllc/tbw)
+- [Awesome-Decentralized-Finance](https://github.com/jamiec79/awesome-decentralized-finance)
+
+### Useful Links:
+- [fastly-labs](https://www.fastlylabs.com/)
 
 
 ## Credits
