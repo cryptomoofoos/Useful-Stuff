@@ -47,5 +47,13 @@
 - [Livecoin](https://www.livecoin.net/)
 - [Bitshares](https://bitshares.org/)
 
+### Explorers:
+- [Shift](https://explorer.shiftnrg.org/)
+- [Rise](https://explorer.rise.vision/)
+- [SBX](https://sbx-exp.geops.net)
+- [Qredit](http://qredit.digitalwindmill.com/#/)
+- [Adamant](https://explorer.adamant.im)
+- [BTC](https://blockexplorer.com/)
+
 ### Credits
 Thanks @jamiec79  @seatrips  @geops
