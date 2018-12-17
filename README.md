@@ -47,6 +47,8 @@
 - [Coinbase](https://www.coinbase.com/)
 - [Livecoin](https://www.livecoin.net/)
 - [Bitshares](https://bitshares.org/)
+- [bittrex-international](https://international.bittrex.com/)
+- [bittrex-us](https://bittrex.com/)
 
 ### Explorers:
 - [Shift](https://explorer.shiftnrg.org/)
@@ -55,6 +57,14 @@
 - [Qredit](http://qredit.digitalwindmill.com/#/)
 - [Adamant](https://explorer.adamant.im)
 - [BTC](https://blockexplorer.com/)
+
+### VPS Hosts:
+- [Vultr](https://www.vultr.com/)
+- [Internex](https://www.internex.at/)
+- [Veeble-Multi](https://www.veeble.org/)
+- [Interserver](https://www.interserver.net/)
+- [Contabo](https://contabo.com/)
+- [Hetzner](https://www.hetzner.com/)
 
 ### Credits
 @jamiec79  @seatrips  @geops
