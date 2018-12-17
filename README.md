@@ -32,9 +32,20 @@
 - [Awesome-Decentralized-Finance](https://github.com/jamiec79/awesome-decentralized-finance)
 - [Pool-software-dakk](https://github.com/dakk/lisk-pool)
 
-### Useful Links:
+## Useful Links:
+
+### Random:
 - [fastly-labs](https://www.fastlylabs.com/)
 
+### Exchanges:
+- [Altilly](https://www.altilly.com)
+- [Crypto-Bridge](https://crypto-bridge.org)
+- [Sistemcoin](https://sistemkoin.com)
+- [Cryptopia](https://cryptopia.co.nz)
+- [Ren](https://ren.exchange/)
+- [Coinbase](https://www.coinbase.com/)
+- [Livecoin](https://www.livecoin.net/)
+- [Bitshares](https://bitshares.org/)
 
-## Credits
+### Credits
 Thanks @jamiec79  @seatrips  @geops
