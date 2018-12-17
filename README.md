@@ -56,4 +56,4 @@
 - [BTC](https://blockexplorer.com/)
 
 ### Credits
-Thanks @jamiec79  @seatrips  @geops
+@jamiec79  @seatrips  @geops
