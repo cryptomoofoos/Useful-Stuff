@@ -4,6 +4,8 @@
 
 ### UseFul Repo's:
 - [ark-snapshot by Gr33nDragon](https://github.com/Gr33nDrag0n69/Ark-Snapshot)
+- [ark-tool](https://github.com/faustbrian/noah)
+- [ark-aces](https://github.com/ark-aces/aces-guides)
 - [noah Automated Rebuilds by Faustbrian](https://github.com/faustbrian/noah)
 - [DPoS offline tools for TypeScript by vekexasia](https://github.com/vekexasia/dpos-offline)
 - [DPoS offline tools for Elixir by stefano g](https://github.com/sgessa/dpos-ex)
@@ -11,8 +13,6 @@
 - [lisk-recovery by Luke](https://github.com/lukeliasi/lisk-recovery)
 - [make your own dex](https://steemit.com/bitshares/@ihashfury/run-your-own-decentralised-exchange)
 - [docker-zen-node guide](https://github.com/WhenLamboMoon/docker-zen-node)
-- [ark-tool](https://github.com/faustbrian/noah)
-- [ark-aces](https://github.com/ark-aces/aces-guides)
 - [alt-coin generator](https://github.com/tiagosh/AltcoinGenerator)
 - [vps-install](https://github.com/jamiec79/vps_install/blob/master/install.sh)
 - [telegram-bot by vekexasia](https://github.com/vekexasia/dpos-telegram-bot)
@@ -30,6 +30,7 @@
 - [True-Block-Weight-galperins4](https://github.com/galperins4/tbw)
 - [True-Block-Weight-GEOPS](https://github.com/geopsllc/tbw)
 - [Awesome-Decentralized-Finance](https://github.com/jamiec79/awesome-decentralized-finance)
+- [Pool-software-dakk](https://github.com/dakk/lisk-pool)
 
 ### Useful Links:
 - [fastly-labs](https://www.fastlylabs.com/)
