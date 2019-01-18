@@ -33,6 +33,7 @@
 - [Awesome-Decentralized-Finance](https://github.com/jamiec79/awesome-decentralized-finance)
 - [Pool-software-by-dakk](https://github.com/dakk/lisk-pool)
 - [Zen-node-install by whenLamboMoon](https://github.com/WhenLamboMoon)
+- [NGINX-reverse-proxy-by-seatrips](https://github.com/seatrips/nginx-reverse-proxy)
 
 ## Useful Links:
 
